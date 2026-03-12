@@ -1,4 +1,3 @@
-# sentiment-analysis-ai
 # Sentiment Analysis Tool
 
 This project is a simple Sentiment Analysis tool built using Python.
